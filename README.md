@@ -9,3 +9,11 @@ To get started with this project, clone this repo and follow these commands:
 3. Start coding!
 
 This was built with the great resources from buildspace.so
+
+You will also need to create an .env file with those entries filled with YOUR data.
+
+PRIVATE_KEY=
+WALLET_ADDRESS=
+QUICKNODE_API_URL=
+
+note: QUICKNODE_API_URL is a service just like infura & alchemy. 
