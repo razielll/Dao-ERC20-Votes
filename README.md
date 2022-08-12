@@ -17,3 +17,7 @@ WALLET_ADDRESS=
 QUICKNODE_API_URL=
 
 note: QUICKNODE_API_URL is a service just like infura & alchemy. 
+
+
+Check out the result:
+https://testnets.opensea.io/collection/antondao-membership
